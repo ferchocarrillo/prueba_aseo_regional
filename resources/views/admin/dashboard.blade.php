@@ -2,17 +2,16 @@
 @section('title', 'Dashboard')
 
 @section('css')
-
+<style>
+    .img_home{
+        width: 100%;
+        height: 100%;
+    }
+</style>
 @stop
-
-@section('content_header')
-    <h1>Dashboard</h1>
-@stop
-
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+   <img class="img_home"  src="\img\fondo1.jpg" alt="">
 @stop
-
 @section('js')
-    <script> console.log('Hi!'); </script>
+    <script> console.log('Bienvenidos a mi prueba para Promoambiental '); </script>
 @stop
