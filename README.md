@@ -37,7 +37,7 @@ _Sigue las siguientes instrucciones para clonar el repositorio_
 _Clone el repositorio_
 
 ```
-git clone https://github.com/jorgehernandezch/Laravel-9-AdminLTE.git
+git clone https://github.com/ferchocarrillo/prueba_aseo_regional.git
 ```
 
 _Instale todas las dependencias del Proyecto con_
@@ -92,11 +92,13 @@ _Corra el proyecto con_
 
 ```
 php artisan serve
+...
+
+_Es necesario que se cree una key para el uso de los mapas_
+
+
 ```
 
 _Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_ con el Usuario admin@admin.com - Admin
 
 
----
-[Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
-_Ingeniero y Desarrollador Web_
